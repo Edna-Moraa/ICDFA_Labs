@@ -26,6 +26,7 @@ At 08:45 on Day 0 the institute is facing mass file changes on FIN-PC07, `.locke
 4. [Communication and escalation](#task-4--communication-and-escalation)
 5. [Tabletop exercise and improvement plan](#task-5--tabletop-exercise-and-improvement-plan)
 6. [Case study analysis and critical reflection](#task-6--case-study-analysis-and-critical-reflection)
+7. [References](#references)
 
 ---
 
@@ -314,3 +315,17 @@ Northbridge should take two lessons from the case. First, restore only a copy th
 A claim that no patient data was stolen would need proxy records, a check for new mailbox rules and bulk downloads, and a forensic finding that no staging archive existed. Silence in a ransom note is not that evidence. E04 does not provide it for Northbridge either.
 
 After the tabletop I revised one decision. Management pressure to reopen the portal before 11:00, and the unreadable snapshot at minute 35, showed that an untested restore can fail the examination. The rule is now to postpone once FS01 shows encryption, and to reopen only after the business owner accepts a tested copy.
+
+---
+
+## References
+
+Cybersecurity and Infrastructure Security Agency. (n.d.). #StopRansomware guide. https://www.cisa.gov/stopransomware/ransomware-guide
+
+International Cybersecurity and Digital Forensics Academy. (Week 20). Incident response planning [PowerPoint slides]. GRC105, slides 1–18.
+
+International Cybersecurity and Digital Forensics Academy. (Week 21). Business continuity and disaster recovery [PowerPoint slides]. GRC205, slide 14.
+
+National Institute of Standards and Technology. (2025). Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile (NIST Special Publication 800-61 Revision 3). https://doi.org/10.6028/NIST.SP.800-61r3
+
+Nigeria Data Protection Act, 2023, s. 40. https://www.ndpc.gov.ng/ndp-act-2023/
