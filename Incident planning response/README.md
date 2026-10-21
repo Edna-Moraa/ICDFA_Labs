@@ -9,7 +9,7 @@ Fictional training scenario. Northbridge Skills Institute is not a real organisa
 | --- | --- |
 | Student | Edna Moraa Maburi |
 | Student ID | 2025/GCR/12688 |
-| Official email | [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.ed.ng) |
+| student email | [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.ed.ng) |
 | Programme | Governance, Compliance, and Risk Engineering |
 | Role in the case | Incident Response Lead, from 08:45 WAT on Day 0 |
 | Classification | Critical · suspected ransomware |
