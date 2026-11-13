@@ -22,8 +22,8 @@ Fictional training scenario. Northbridge Logistics is not a real organisation.
 4. [Deliver](#task-3--deliver)
 5. [Measure](#task-4--measure)
 6. [Improve and sustain](#task-5--improve-and-sustain)
-7. [Reflection](#reflection)
-8. [12-month program calendar](#12-month-program-calendar)
+7. [12-month program calendar](#12-month-program-calendar)
+8. [Reflection](#reflection)
 9. [References](#references)
 
 ---
@@ -159,12 +159,6 @@ Second, a manager "good catch" within a week of a useful report, plus entry into
 
 Risk 1 runs from finance and sales, through Objective 1, the callback drill, and the invoice simulations, to the payee-change measure, and into the quarterly log if that measure slips. Risk 2 runs from individual account holders, with extra weight on finance and IT, through Objective 2, MFA, and the credential simulations, to the MFA rate and the click rate. Risk 3 runs from warehouse, sales, and office staff, through the talks and the no-blame route, to the report rate, shift coverage, and the harm count. The calendar uses the same owners. The security team writes and measures. Managers deliver. That is a load a small team can still be doing in Month 12.
 
-## Reflection
-
-The hardest part was measuring warehouse staff without pretending email statistics speak for them. Click rates are easy to export and they would make the program look stronger than it is, because most of the 800 people do not work from a mailbox. Simulation results in this design are labelled as email-user results. Warehouse evidence is shift attendance, the QR reports and a quarterly yes or no on shared passwords.
-
-The trade-off was capacity. A small security team and a budget of this size cannot teach everyone in person each month. Managers and shift supervisors deliver from scripts the security team writes once. That is what makes twelve months realistic. It is also the weak point: a busy night shift can skip the talk. The quarterly review therefore checks which shifts were missed, not only the percentages. I would rather repair a missed talk than add modules that nobody has time to run.
-
 ## 12-month program calendar
 
 One proposed year for Northbridge Logistics. Activities, audiences and owners match the report. Targets are planning choices, not current results. The Security Manager prepares scripts and runs simulations. Managers deliver the talks.
@@ -185,6 +179,12 @@ One proposed year for Northbridge Logistics. Activities, audiences and owners ma
 | 12 | Finance month-end scenario. Year set against the Month 1 baseline. Next-year calendar drafted from the decision log. Quarter 4 review with the COO. | Security, Finance, COO | Harm count and value versus baseline, with the detection limit stated in the pack. |
 
 Runs every month, so it is not repeated in the grid. From Month 2, every new joiner does the 15-minute induction and MFA in week one, then the audience activity within 30 days (HR). The Finance Manager checks the payee-change rate every month from Month 2. IT checks MFA monthly until Month 4, then quarterly. The three learner questions are asked at every talk, drill and module. Quarter reviews are Months 3, 6, 9 and 12.
+
+## Reflection
+
+The hardest part was measuring warehouse staff without pretending email statistics speak for them. Click rates are easy to export and they would make the program look stronger than it is, because most of the 800 people do not work from a mailbox. Simulation results in this design are labelled as email-user results. Warehouse evidence is shift attendance, the QR reports and a quarterly yes or no on shared passwords.
+
+The trade-off was capacity. A small security team and a budget of this size cannot teach everyone in person each month. Managers and shift supervisors deliver from scripts the security team writes once. That is what makes twelve months realistic. It is also the weak point: a busy night shift can skip the talk. The quarterly review therefore checks which shifts were missed, not only the percentages. I would rather repair a missed talk than add modules that nobody has time to run.
 
 ## References
 
