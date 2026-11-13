@@ -12,7 +12,6 @@ Fictional training scenario. Northbridge Logistics is not a real organisation.
 | Official email | [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.ed.ng) |
 | Programme | Governance, Compliance, and Risk Engineering |
 | Course | GRC 206 – Designing a Security Awareness Program |
-| Word count | 3,807 words, excluding the cover, the calendar, and the references |
 
 ## Contents
 
