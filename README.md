@@ -10,5 +10,6 @@ Coursework portfolio for the International Cybersecurity and Digital Forensics A
 | --- | --- | --- |
 | [Incident planning response](./Incident%20planning%20response/) | GRC105 · Week 20 | Classification, CSIRT and RACI, a 24-hour response playbook, evidence custody, communication, a tabletop exercise, and a healthcare ransomware case reflection |
 | [Business continuity and disaster recovery](./Business%20continuity%20and%20disaster%20recovery/) | GRC205 · Week 21 | Business impact, recovery objectives, backup design, strategy cost, a coordinated plan, a recovery schedule, and governance measures |
+| [Security awareness program](./Security%20awareness%20program/) | GRC206 | Human-risk assessment, role-based awareness, behaviour measures, and a twelve-month programme for Northbridge Logistics |
 
-Northbridge Skills Institute, the organisation in that project, is a fictional training scenario.
+Northbridge Skills Institute and Northbridge Logistics are fictional training scenarios.
