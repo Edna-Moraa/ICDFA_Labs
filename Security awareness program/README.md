@@ -23,8 +23,8 @@ Fictional training scenario. Northbridge Logistics is not a real organisation.
 5. [Measure](#task-4--measure)
 6. [Improve and sustain](#task-5--improve-and-sustain)
 7. [Reflection](#reflection)
-8. [References](#references)
-9. [12-month program calendar](#12-month-program-calendar)
+8. [12-month program calendar](#12-month-program-calendar)
+9. [References](#references)
 
 ---
 
@@ -165,14 +165,6 @@ The hardest part was measuring warehouse staff without pretending email statisti
 
 The trade-off was capacity. A small security team and a budget of this size cannot teach everyone in person each month. Managers and shift supervisors deliver from scripts the security team writes once. That is what makes twelve months realistic. It is also the weak point: a busy night shift can skip the talk. The quarterly review therefore checks which shifts were missed, not only the percentages. I would rather repair a missed talk than add modules that nobody has time to run.
 
-## References
-
-GRC206 self-study deck. *Designing a Successful Security Awareness Program.* The five stages, and the split between reach, behaviour, and outcomes, follow that deck.
-
-International Organization for Standardization. (2022). *ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection — Information security management systems — Requirements.* Annex A, control 6.3, Information security awareness, education and training.
-
-Merritt, M., Hansche, S., Ellis, B., Sanchez-Cherry, K., Nethery Snyder, J., & Walden, D. (2024). *Building a cybersecurity and privacy learning program* (NIST SP 800-50r1). National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.SP.800-50r1](https://doi.org/10.6028/NIST.SP.800-50r1)
-
 ## 12-month program calendar
 
 One proposed year for Northbridge Logistics. Activities, audiences and owners match the report. Targets are planning choices, not current results. The Security Manager prepares scripts and runs simulations. Managers deliver the talks.
@@ -193,3 +185,11 @@ One proposed year for Northbridge Logistics. Activities, audiences and owners ma
 | 12 | Finance month-end scenario. Year set against the Month 1 baseline. Next-year calendar drafted from the decision log. Quarter 4 review with the COO. | Security, Finance, COO | Harm count and value versus baseline, with the detection limit stated in the pack. |
 
 Runs every month, so it is not repeated in the grid. From Month 2, every new joiner does the 15-minute induction and MFA in week one, then the audience activity within 30 days (HR). The Finance Manager checks the payee-change rate every month from Month 2. IT checks MFA monthly until Month 4, then quarterly. The three learner questions are asked at every talk, drill and module. Quarter reviews are Months 3, 6, 9 and 12.
+
+## References
+
+GRC206 self-study deck. *Designing a Successful Security Awareness Program.* The five stages, and the split between reach, behaviour, and outcomes, follow that deck.
+
+International Organization for Standardization. (2022). *ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection — Information security management systems — Requirements.* Annex A, control 6.3, Information security awareness, education and training.
+
+Merritt, M., Hansche, S., Ellis, B., Sanchez-Cherry, K., Nethery Snyder, J., & Walden, D. (2024). *Building a cybersecurity and privacy learning program* (NIST SP 800-50r1). National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.SP.800-50r1](https://doi.org/10.6028/NIST.SP.800-50r1)
