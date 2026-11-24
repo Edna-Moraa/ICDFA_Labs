@@ -9,7 +9,7 @@ Fictional training scenario. Northbridge Skills Institute is not a real organisa
 | --- | --- |
 | Student | Edna Moraa Maburi |
 | Student ID | 2025/GCR/12688 |
-| Official email | [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.ed.ng) |
+| Official email | [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.edu.ng) |
 | Programme | Governance, Compliance, and Risk Engineering |
 | Word count | 3,137 words, excluding the cover, tables, and references |
 
