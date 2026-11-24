@@ -2,7 +2,7 @@
 
 Coursework portfolio for the International Cybersecurity and Digital Forensics Academy.
 
-**Edna Moraa Maburi** · Student ID 2025/GCR/12688 · [gcr2512688@students.icdfa.ed.ng](mailto:gcr2512688@students.icdfa.ed.ng)
+**Edna Moraa Maburi** · Student ID 2025/GCR/12688 · [gcr2512688@students.icdfa.edu.ng](mailto:gcr2512688@students.icdfa.edu.ng)
 
 ## Projects
 
